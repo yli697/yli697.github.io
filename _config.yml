@@ -78,6 +78,9 @@ blog_name: Yijiang Li
 blog_description: Research updates
 permalink: /blog/:year/:title/
 lsi: false
+related_blog_posts:
+  enabled: false
+  max_related: 5
 
 pagination:
   enabled: false
