@@ -47,7 +47,7 @@ footer_fixed: true
 search_enabled: false        # fix 5: disable search
 socials_in_search: false
 posts_in_search: false
-bib_search: true
+bib_search: false
 
 max_width: 930px
 
