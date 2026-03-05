@@ -85,10 +85,6 @@ related_blog_posts:
 pagination:
   enabled: false
 
-related_blog_posts:
-  enabled: false
-  max_related: 5
-
 giscus:
   repo:
   repo_id:
