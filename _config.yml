@@ -120,6 +120,7 @@ collections:
     defaults:
       layout: post
     output: true
+future: true
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
