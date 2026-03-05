@@ -15,7 +15,10 @@ profile:
     <p>Argonne National Laboratory</p>
     <p>Lemont, IL 60439</p>
 
-news: true
+announcements:
+  enabled: true
+  scrollable: true
+  limit: 5
 selected_papers: false
 social: true
 ---
