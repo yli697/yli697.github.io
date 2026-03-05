@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-**LUMINA: A Grid Foundation Model for Benchmarking AC Optimal Power Flow Surrogate Learning**. Talk at 5th GridFM Workshop.
+**LUMINA: A Grid Foundation Model for Benchmarking AC Optimal Power Flow Surrogate Learning**. Talk at 5th GridFM Workshop. *(upcoming)*

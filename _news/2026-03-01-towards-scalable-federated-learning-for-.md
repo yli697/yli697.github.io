@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-**Towards Scalable Federated Learning for Scientific Computing**. LANS Seminar, Argonne National Laboratory.
+**Towards Scalable Federated Learning for Scientific Computing**. LANS Seminar, Argonne National Laboratory. *(upcoming)*

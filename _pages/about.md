@@ -13,7 +13,6 @@ profile:
   more_info: >
     <p>Mathematics and Computer Science</p>
     <p>Argonne National Laboratory</p>
-    <p>Lemont, IL 60439</p>
 
 announcements:
   enabled: true
