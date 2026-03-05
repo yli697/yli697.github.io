@@ -10,14 +10,12 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false
-  more_info: >
-    <p>Mathematics and Computer Science</p>
-    <p>Argonne National Laboratory</p>
+
 
 announcements:
   enabled: true
   scrollable: true
-  limit: 10
+  limit: 5
 selected_papers: false
 social: true
 ---
