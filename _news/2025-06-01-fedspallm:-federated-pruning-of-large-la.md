@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-**FedSpaLLM: Federated Pruning of Large Language Models**. Talk at International Conference on Continuous Optimization (ICCOPT), Los Angeles, CA.
+**FedSpaLLM: Federated Pruning of Large Language Models**. Presentation at International Conference on Continuous Optimization (ICCOPT), Los Angeles, CA.

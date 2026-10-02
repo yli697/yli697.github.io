@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Paper accepted: **FedSpaLLM: Federated pruning of large language models**. Accepted at NAACL 2025.
+Paper accepted: **FedSpaLLM: Federated Pruning of Large Language Models**. Accepted at NAACL 2025.

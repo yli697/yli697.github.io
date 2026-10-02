@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-**Federated Learning Across HPC: What Deployment Taught Us**. Talk at FPAI-HPC'26 in conjunction with IEEE CLUSTER'26, Alexandria, VA.
+**Federated Learning Across HPC: What Deployment Taught Us**. Presentation at FPAI-HPC'26 in conjunction with IEEE CLUSTER'26, Alexandria, VA.

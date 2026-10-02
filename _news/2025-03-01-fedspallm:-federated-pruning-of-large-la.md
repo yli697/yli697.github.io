@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-**FedSpaLLM: Federated Pruning of Large Language Models**. Talk at SIAM Conference on Computational Science and Engineering, Fort Worth, TX.
+**FedSpaLLM: Federated Pruning of Large Language Models**. Presentation at SIAM Conference on Computational Science and Engineering, Fort Worth, TX.

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Paper accepted: **SparseLLM: Towards global pruning for pretrained language models**. Accepted at NeurIPS 2024.
+Paper accepted: **SparseLLM: Towards Global Pruning for Pretrained Language Models**. Accepted at NeurIPS 2024.

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-**Towards Scalable Federated Learning for Scientific Computing**. Talk at Trillion Parameter Consortium 2026 All-Hands Conference (TPC 26), Baltimore, MD.
+**Towards Scalable Federated Learning for Scientific Computing**. Presentation at Trillion Parameter Consortium 2026 All-Hands Conference (TPC 26), Baltimore, MD.
