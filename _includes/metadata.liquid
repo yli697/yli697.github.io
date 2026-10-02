@@ -236,6 +236,14 @@
         "author":
         {
             "@type": "Person",
+            {% if page.person %}
+            "jobTitle": "{{ page.person.job_title }}",
+            "worksFor": { "@type": "Organization", "name": "{{ page.person.works_for }}" },
+            "alumniOf": { "@type": "CollegeOrUniversity", "name": "{{ page.person.alumni_of }}" },
+            {% if page.person.orcid %}"identifier": "{{ page.person.orcid }}",{% endif %}
+            "url": "{{ site.url }}{{ site.baseurl }}/",
+            {% if sameaslinks != blank %}"sameAs": {{ sameaslinks | jsonify }},{% endif %}
+            {% endif %}
             "name": "{{ author_name }}"
         },
         "url": "{{ page.url | prepend: site.baseurl | prepend: site.url }}",

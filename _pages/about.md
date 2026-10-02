@@ -17,6 +17,12 @@ announcements:
   enabled: true
 selected_papers: false
 social: true
+
+person:
+  job_title: Assistant Computational Mathematician
+  works_for: Argonne National Laboratory
+  alumni_of: Georgia Institute of Technology
+  orcid: https://orcid.org/0000-0002-6655-9224
 ---
 
 Yijiang Li is an Assistant Computational Mathematician in the Mathematics and Computer Science Division at Argonne National Laboratory. 
