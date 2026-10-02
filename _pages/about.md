@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  Postdoctoral Appointee, <a href="https://www.anl.gov/mcs">Mathematics and Computer Science</a>,
+  Assistant Computational Mathematician, <a href="https://www.anl.gov/mcs">Mathematics and Computer Science</a>,
   <a href="https://www.anl.gov">Argonne National Laboratory</a>
 
 profile:
@@ -14,11 +14,11 @@ profile:
 
 announcements:
   enabled: true
-  scrollable: true
-  limit: 5
 selected_papers: false
 social: true
 ---
 
-I am a Postdoctoral Appointee in the Mathematics and Computer Science division at Argonne National Laboratory. My research focuses on federated 
-learning, large-scale optimization, and scientific machine learning, with applications to energy systems and distributed computing infrastructure.
+Yijiang Li is an Assistant Computational Mathematician in the Mathematics and Computer Science Division at Argonne National Laboratory. 
+His research develops distributed optimization methods for large-scale scientific machine learning, spanning federated learning across HPC facilities, efficient training and compression of large language models, and AI for energy systems. 
+He is a developer of APPFL, an open-source framework for privacy-preserving federated learning, and his work has appeared in ICML, NeurIPS, NAACL, and KDD. 
+He received his PhD in Operations Research from the Georgia Institute of Technology in 2023.

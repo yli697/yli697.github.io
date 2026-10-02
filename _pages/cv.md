@@ -30,7 +30,10 @@ Dissertation: *Decomposition Algorithms for Certain Integer Problems over Networ
 
 ## Experience
 
-**Postdoctoral Appointee**, Argonne National Laboratory, August 2023--present  
+**Assistant Computational Mathematician**, Argonne National Laboratory, July 2026--present  
+Mathematics and Computer Science
+
+**Postdoctoral Appointee**, Argonne National Laboratory, August 2023--June 2026  
 Mathematics and Computer Science  
 Supervisor: Kibaek Kim
 

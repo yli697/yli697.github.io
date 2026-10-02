@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-**INFORMS Annual Meeting**. Presentation on FedSpaLLM,.
+**INFORMS Annual Meeting**. Presentation on FedSpaLLM.
