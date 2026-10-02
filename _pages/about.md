@@ -1,6 +1,7 @@
 ---
 layout: about
 title: About
+seo_title: Yijiang Li | Argonne National Laboratory
 permalink: /
 subtitle: >
   Assistant Computational Mathematician, <a href="https://www.anl.gov/mcs">Mathematics and Computer Science</a>,
