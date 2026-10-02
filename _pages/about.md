@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: >
   Assistant Computational Mathematician, <a href="https://www.anl.gov/mcs">Mathematics and Computer Science</a>,

@@ -44,7 +44,7 @@ external_services:
 
 navbar_fixed: true
 footer_fixed: true
-search_enabled: false        # fix 5: disable search
+search_enabled: false # fix 5: disable search
 socials_in_search: false
 posts_in_search: false
 bib_search: false
@@ -289,7 +289,7 @@ filtered_bibtex_keywords:
 
 max_author_limit: null
 more_authors_animation_delay: 10
-enable_publication_thumbnails: false  # fix 2: disable thumbnails
+enable_publication_thumbnails: false # fix 2: disable thumbnails
 
 # -----------------------------------------------------------------------------
 # Jekyll Link Attributes
