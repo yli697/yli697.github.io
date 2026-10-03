@@ -184,7 +184,11 @@
       {{ periodical | strip }}
     </div>
     <div class="periodical">
-      {{ entry.note | strip }}
+      {% if entry.keywords contains 'oral' %}
+        <strong>{{ entry.note | strip }}</strong>
+      {% else %}
+        {{ entry.note | strip }}
+      {% endif %}
     </div>
 
     <!-- Links/Buttons -->
