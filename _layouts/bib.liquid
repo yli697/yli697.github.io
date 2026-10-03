@@ -185,7 +185,7 @@
     </div>
     <div class="periodical">
       {% if entry.keywords contains 'oral' %}
-        <strong>{{ entry.note | strip }}</strong>
+        <strong style="font-weight: 700">{{ entry.note | strip }}</strong>
       {% else %}
         {{ entry.note | strip }}
       {% endif %}
